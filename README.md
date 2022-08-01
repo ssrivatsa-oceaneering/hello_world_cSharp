@@ -1,1 +1,2 @@
 # hello_world_cSharp
+Simple hello world program in C#. Creates a thread that executes for a specified run time (Default of 30 seconds). The thread computes the difference of the time elapsed between each thread call and writes it to an array. Additionally it generates a random number and stores it in a separate array. At the end of the loop, the program writes both these data into separate files that can be viewed for later.
